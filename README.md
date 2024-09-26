@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juscghwe
-- 👀 I’m interested in game development, especially single player and story driven experiences but also app development for professional use.
-- 🌱 I’m currently learning UnrealEngine 4/5, Blender, Flutter, ...
-- 💞️ I’m looking to collaborate on moddeling, sound and audio design.
-- 📫 How to reach me ... (comming as soon as progress is done)
+- 👀 I’m interested in game development, but also development for professional use.
+- 🌱 I’m currently learning UnrealEngine, Blender, C++, Networking, ...
+- 💞️ I’m looking to collaborate on small scale projects for now.
+- 📫 How to reach me ... (comming as soon as public progress is done)
 
 <!---
 juscghwe/juscghwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
